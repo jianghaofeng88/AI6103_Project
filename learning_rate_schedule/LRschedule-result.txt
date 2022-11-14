@@ -1,0 +1,10 @@
+Constant:
+Epoch : 300, training loss : 0.0040, training accuracy : 99.87, test loss : 0.4752, test accuracy : 94.46
+Cosine:
+Epoch : 300, training loss : 0.0001, training accuracy : 100.00, test loss : 0.5857, test accuracy : 95.09
+Step:
+Epoch : 300, training loss : 0.0041, training accuracy : 99.89, test loss : 0.3878, test accuracy : 94.70
+Linear:
+Epoch : 300, training loss : 0.0074, training accuracy : 99.75, test loss : 0.4653, test accuracy : 93.80
+Exp:
+Epoch : 300, training loss : 0.3770, training accuracy : 88.13, test loss : 0.3917, test accuracy : 87.75
