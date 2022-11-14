@@ -1,0 +1,3 @@
+dropout
+Epoch : 300, training loss : 0.9392, training accuracy : 59.34, test loss : 0.9997, test accuracy : 58.30
+(0.9476416005807764, 59.47295636140135)
