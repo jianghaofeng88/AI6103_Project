@@ -1,0 +1,4 @@
+1e-2
+Epoch : 300, training loss : 0.1595, training accuracy : 96.13, test loss : 0.2338, test accuracy : 93.85
+5e-4
+Epoch : 300, training loss : 0.0082, training accuracy : 99.81, test loss : 0.3086, test accuracy : 94.40
