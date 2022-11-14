@@ -1,0 +1,15 @@
+default
+Epoch : 300, training loss : 0.0082, training accuracy : 99.81, test loss : 0.3086, test accuracy : 94.40
+(0.26001455211171914, 95.02919483712354)
+
+Rand
+Epoch : 300, training loss : 0.0089, training accuracy : 99.79, test loss : 0.2348, test accuracy : 94.93
+(0.16281128386218174, 96.30454824830977)
+
+Auto
+Epoch : 300, training loss : 0.0159, training accuracy : 99.57, test loss : 0.2471, test accuracy : 94.76
+(0.16236956734392866, 96.49661954517516)
+
+Mix
+Epoch : 300, training loss : 0.0074, training accuracy : 99.83, test loss : 0.2391, test accuracy : 94.61
+(0.19231817637588464, 95.40181315304241)
