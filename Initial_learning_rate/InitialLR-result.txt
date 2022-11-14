@@ -1,0 +1,8 @@
+lr:
+0.1
+Epoch :  15, training loss : 2.2416, training accuracy : 18.75, test loss : 2.2435, test accuracy : 18.96
+0.01
+Epoch :  15, training loss : 0.1958, training accuracy : 94.35, test loss : 0.2491, test accuracy : 92.82
+0.001
+Epoch :  15, training loss : 0.1823, training accuracy : 94.71, test loss : 0.2499, test accuracy : 92.87
+
