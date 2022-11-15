@@ -55,5 +55,4 @@ Finally, Label smoothing coefficient = 0.1 is chosen to be optimal.
 ### Other logistic work
 * Set environment -- Haofeng; 
 * Group arrangment -- Haofeng;
-* Report -- Haofeng;
 * Video -- Haofeng.  
