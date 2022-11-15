@@ -1,0 +1,16 @@
+Label smoothing coefficient:
+0
+Epoch : 300, training loss : 0.0159, training accuracy : 99.57, test loss : 0.2471, test accuracy : 94.76
+(0.16236956734392866, 96.49661954517516)
+
+0.001
+Epoch : 300, training loss : 0.0259, training accuracy : 99.53, test loss : 0.2503, test accuracy : 94.55
+(0.16823063889408812, 96.49277811923785)
+
+0.01
+Epoch : 300, training loss : 0.0904, training accuracy : 99.45, test loss : 0.2794, test accuracy : 94.80
+(0.20942527764275962, 96.58881376767056)
+
+0.1
+Epoch : 300, training loss : 0.5246, training accuracy : 99.21, test loss : 0.6539, test accuracy : 94.71
+(0.5943519350360421, 96.73478795328826)
