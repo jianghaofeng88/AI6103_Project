@@ -53,6 +53,6 @@ Finally, non-Dropout is chosen to be optimal.
 Finally, Label smoothing coefficient = 0.1 is chosen to be optimal.  
 
 ### Other logistic work
-* Set environment -- Haofeng; 
+* Build system -- Haofeng; 
 * Group arrangment -- Haofeng;
 * Video -- Haofeng.  
